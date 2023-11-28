@@ -3,6 +3,7 @@ node_modules
 
 # Database
 db/*.sqlite
+db/*.db
 
 # Environment
 .env
